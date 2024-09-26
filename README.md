@@ -7,15 +7,16 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Dawson (he/him), and most enjoy action games, rpgs, and platformers. Some of my favorite games are the Armored Core Series (For Answer and VI), Souls, Hades, Hollow Knight and Blasphemous. I'm taking this class because I want to improve my skills in Unity and C#, particularly in regards to physics, coding 3D games and UI elements. I have prior experience in Unity, C# and other programming languages.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
-
+   
 3. What are you hoping to get out of this class?
+
+Become more confident in the Unity editor and C#, so that I can make more complex and diverse games in Unity. I am also looking forward to more experience in collaboration when making games.
+
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
@@ -25,10 +26,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+	C#, Java, C++, C, Python (Flask), HTML, CSS, JavaScript, SQL 
 
 2. Game development (any engine)
+	Unity
 
 3. Unity
+	Experience creating simple 2D games (platformers, adventure games) and a very basic amount of 3D physics. 
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +44,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+	n/a
 
 2. Scope management
+	Managing the complexity and scale of a game. 
 
 3. Iteration
+	The process of traversing through a data set with the purpose of altering or accessing the data using a loop or other means. 
 
 4. Object-Oriented programming
+	A framework for a programming language that involves the use of classes and objects. The programmer can use objects as customizable data types that can store specific values and functions, as well as inherit the values and functions of parent objects.  
 
 5. Model-View-Controller architecture
+	n/a
 
 ## Complete!
 
